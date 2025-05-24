@@ -16,5 +16,8 @@
     "url": "https://github.com/Olivier-hash/Simple-web/issues"
   },
   "homepage": "https://github.com/Olivier-hash/Simple-web#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
